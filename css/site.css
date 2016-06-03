@@ -1,0 +1,24 @@
+.row  {
+	padding: 2px 0 2px 0;
+}
+
+input.form-control.fill-max {
+	width: 100%;	
+}
+
+input.error {
+	background-color: #F5E3D7;
+	color: #383432;
+	font-weight: normal;
+	font-size: 1em;	
+}
+
+.error {
+	color: red;
+	font-size: 0.8em;	
+	font-weight: italic;
+}
+
+.feedback {
+	color: blue;
+}
